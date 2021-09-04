@@ -38,9 +38,8 @@
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=for-the-badge" />
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-f05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?logo=gitkraken&logoColor=white&style=for-the-badge" />
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
   <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=NGINX&logoColor=white&style=for-the-badge" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=for-the-badge" />
   <img alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-3eaaaf?logo=travisci&logoColor=white&style=for-the-badge" />
